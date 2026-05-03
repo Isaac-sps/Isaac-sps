@@ -47,7 +47,7 @@ Soy un **programador junior** en formación, enfocado en el **desarrollo web** y
 Backend en Python + Frontend HTML/CSS/JS, con gestión de números, API y automatización.
 
 ### 🤖 Scripts de Automatización  
-Herramientas creadas con Python para simplificar tareas repetitivas.
+Herramientas creadas con Python para simplificar tareas repetitivas con un sistema de notificacion automatica mediante enlaces de WhatsApp y Email como un proyecto inicial.
 
 ---
 
