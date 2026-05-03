@@ -3,7 +3,8 @@
 </style>
 
 <img width="1536" height="497" alt="Copilot_20260503_113153" src="https://github.com/user-attachments/assets/0f75820f-09ec-4100-a278-39e293afb4b7" />
-## 👋 ¡Hola! Soy Leonel
+### 👋 ¡Hola! Soy Leonel
+
 **Programador Junior | Web Developer | Python Backend | ML Enthusiast**
 
 Soy un **programador junior** en formación, enfocado en el **desarrollo web** y la **automatización de tareas** mediante **Python** y conceptos iniciales de **Machine Learning**. Me encanta aprender, crear y mejorar proyectos que resuelvan problemas reales.
