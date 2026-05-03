@@ -1,5 +1,5 @@
 <img width="1536" height="1024" alt="BCO 413a3f94-21cf-4f51-8f7e-c8383525aee8" src="https://github.com/user-attachments/assets/8c76efd0-fc46-4ced-ad97-d61b99e03e42" />
-<img width="1536" height="1024" alt="BCO 97365af8-bed2-4825-b573-520427abbc6f" src="https://github.com/user-attachments/assets/d31d0f1d-1b3c-44f6-80af-e74f9cc336c9" />
+
 # 👋 ¡Hola! Soy Leonel  
 ### Programador Junior | Web Developer | Python Backend | ML Enthusiast
 
@@ -54,8 +54,10 @@ Prácticas de maquetación y diseño moderno.
 
 ## 📊 Estadísticas de GitHub
 
-![Leonel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Isaac-sps&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-sps&layout=compact&theme=tokyonight)
+![📈 Estadísticas de GitHub de Leonel](https://github-readme-stats.vercel.app/api?username=Isaac-sps&show_icons=true&theme=tokyonight)
+
+![🌐 Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-sps&layout=compact&theme=tokyonight)
+
 
 ---
 
