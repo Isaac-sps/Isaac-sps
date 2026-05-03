@@ -1,5 +1,5 @@
 
-<img width="1536" height="548" alt="Copilot_20260503_112532" src="https://github.com/user-attachments/assets/877d8b94-e048-436f-b4f3-ba6acbf6e027" />
+<img width="1536" height="497" alt="Copilot_20260503_113153" src="https://github.com/user-attachments/assets/0f75820f-09ec-4100-a278-39e293afb4b7" />
 # 👋 ¡Hola! Soy Leonel  
 ### Programador Junior | Web Developer | Python Backend | ML Enthusiast
 
@@ -46,10 +46,6 @@ Backend en Python + Frontend HTML/CSS/JS, con gestión de números, API y automa
 
 ### 🤖 Scripts de Automatización  
 Herramientas creadas con Python para simplificar tareas repetitivas.
-
-### 🌐 Sitios Web Responsivos  
-Prácticas de maquetación y diseño moderno.<img width="1536" height="1024" alt="BCO b2153142-1f48-4c48-858d-57886b863974" src="https://github.com/user-attachments/assets/87c6a87e-ec53-43b6-b2e0-eab381bc8217" />
-
 
 ---
 
