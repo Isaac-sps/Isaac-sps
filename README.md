@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="BCO 413a3f94-21cf-4f51-8f7e-c8383525aee8" src="https://github.com/user-attachments/assets/8c76efd0-fc46-4ced-ad97-d61b99e03e42" />
+
+<img width="1536" height="1024" alt="BCO b2153142-1f48-4c48-858d-57886b863974" src="https://github.com/user-attachments/assets/6139cab1-6005-40ad-a06e-3a02125923cb" />
 
 # 👋 ¡Hola! Soy Leonel  
 ### Programador Junior | Web Developer | Python Backend | ML Enthusiast
@@ -48,15 +49,7 @@ Backend en Python + Frontend HTML/CSS/JS, con gestión de números, API y automa
 Herramientas creadas con Python para simplificar tareas repetitivas.
 
 ### 🌐 Sitios Web Responsivos  
-Prácticas de maquetación y diseño moderno.
-
----
-
-## 📊 Estadísticas de GitHub
-
-![📈 Estadísticas de GitHub de Leonel](https://github-readme-stats.vercel.app/api?username=Isaac-sps&show_icons=true&theme=tokyonight)
-
-![🌐 Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac-sps&layout=compact&theme=tokyonight)
+Prácticas de maquetación y diseño moderno.<img width="1536" height="1024" alt="BCO b2153142-1f48-4c48-858d-57886b863974" src="https://github.com/user-attachments/assets/87c6a87e-ec53-43b6-b2e0-eab381bc8217" />
 
 
 ---
