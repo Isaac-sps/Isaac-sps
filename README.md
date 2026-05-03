@@ -1,6 +1,5 @@
 
-<img width="1536" height="1024" alt="BCO b2153142-1f48-4c48-858d-57886b863974" src="https://github.com/user-attachments/assets/6139cab1-6005-40ad-a06e-3a02125923cb" />
-
+<img width="1536" height="548" alt="Copilot_20260503_112532" src="https://github.com/user-attachments/assets/877d8b94-e048-436f-b4f3-ba6acbf6e027" />
 # 👋 ¡Hola! Soy Leonel  
 ### Programador Junior | Web Developer | Python Backend | ML Enthusiast
 
